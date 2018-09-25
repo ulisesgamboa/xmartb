@@ -1,0 +1,4 @@
+[submodule "teamsye/qualtop"]
+	path = teamsye/qualtop
+	url = git@github.com:teamsye/qualtop.git
+	branch = 11.0-imp-l10n_mx-luist
